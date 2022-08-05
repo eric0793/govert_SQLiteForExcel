@@ -30,8 +30,6 @@ The current release has the following parts:
 # Sample projects
 * Brian Gonzalez has made a refactored version of the project with a class / interface style. Have a look at his fork here: https://github.com/b-gonzalez/SQLiteForExcel
 
-* Mark Camilleri has posted a sample project, *XLSQLite*, that provides a GUI interface to SQLite in Excel. The project can be downloaded from the Gatekeeper for Excel site: http://www.gatekeeperforexcel.com/other-freebies.html. _XLSQLite.xlam is an add-in that allows you to create and manipulate (both DDL and DML) SQLite databases from within Excel.  It offers a basic gui interface that allows you to perform basic tasks on your SQLite databases._ (Note that this example might not include the latest SQLite for Excel version, which has a fix for a string conversion bug.)
-
 * *SQLite for Access* - Thomas Gewinnus has ported the SQLite-Interface to Access-VBA and added a small DAO-like-Layer (class SQLiteDatabase). See Module Test__SQLiteDatabase for samples. Download the .accdb file from https://s3.amazonaws.com/share.excel-dna.net/Beispiel.zip.
 
 # Related Projects
